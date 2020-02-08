@@ -15,9 +15,12 @@
   	}
   }
   class D{
-  	A.B obj;
-  	D o=new D();
-  	obj=o;
-  	obj.Greetings();
+  	public static void main(String[] args) {
+  		A.B obj;
+  		D o=new D();
+  		obj=o;
+  		obj.Greetings();
+  	}
+  	
   }
   ```
