@@ -28,7 +28,7 @@ class Example{
 	}
 }
 ```
-1. Parmeterized Constructor
+1.Parmeterized Constructor
 * Example
 ```java
 class Example{
