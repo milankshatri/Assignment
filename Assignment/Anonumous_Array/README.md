@@ -8,6 +8,7 @@ An array in Java *without any name* is ```Anonymous``` array. It is an array jus
 
 * Anonymous array is passed as an argument of method.
 
+```Java
       class Test { 
           public static void main(String[] args) 
           { 
@@ -25,3 +26,4 @@ An array in Java *without any name* is ```Anonymous``` array. It is an array jus
               System.out.println("The sum is:" + total); 
           } 
       } 
+```
