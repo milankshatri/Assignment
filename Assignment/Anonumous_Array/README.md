@@ -4,8 +4,7 @@ An array in Java *without any name* is ```Anonymous``` array. It is an array jus
 -We can create an array without name, such type of nameless arrays are called anonymous array.
 -The main purpose of anonymous array is just for instant use i.e just for one time usuage.
 -Anonymous array is passed as an argument of method.
-
->
+```
 class Test { 
     public static void main(String[] args) 
     { 
@@ -23,3 +22,4 @@ class Test {
         System.out.println("The sum is:" + total); 
     } 
 } 
+```
