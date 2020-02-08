@@ -1,7 +1,5 @@
 # __Java Assignments__
 ---
----
-
 1. **_Anonymous array in Java_**
 
 1. **_Default methods in Interface_**
