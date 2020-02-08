@@ -9,10 +9,10 @@
 * Example
 ```Java
 class A{
-	public void Hello()
+	public void Hello();
 }
 class B{
-	public void There()
+	public void There();
 }
 class C implements A,B{
 	public void Hello(){
