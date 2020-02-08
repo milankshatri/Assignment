@@ -9,17 +9,14 @@ An array in Java *without any name* is ```Anonymous``` array. It is an array jus
 * Anonymous array is passed as an argument of method.
 
 ```Java
-      class Test { 
+      class Anonymous_Array{ 
           public static void main(String[] args) 
           { 
-                // anonymous array 
-                sum(new int[]{ 1, 2, 3 }); 
+                numbers(new int[]{ 3, 4, 5 }); 
           } 
-          public static void sum(int[] a) 
+          public static void numbers(int[] a) 
           { 
               int total = 0; 
-
-              // using for-each loop 
               for (int i : a)  
                   total = total + i; 
 
