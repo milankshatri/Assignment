@@ -10,4 +10,4 @@
 
 1. **_Creation of Exception explicitly_**
 
-1. 2 __Questions__
+1. __2 Questions__
