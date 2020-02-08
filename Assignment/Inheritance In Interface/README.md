@@ -8,10 +8,10 @@
 
 * Example
 ```Java
-class A{
+interface A{
 	public void Hello();
 }
-class B{
+interface B{
 	public void There();
 }
 class C implements A,B{
