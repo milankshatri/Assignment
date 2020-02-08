@@ -1,5 +1,5 @@
 # __Java__
 ___
-* ####_Assignments_
+* #### _Assignments_
 
-* ####_Lab Task_
+* #### _Lab Task_
